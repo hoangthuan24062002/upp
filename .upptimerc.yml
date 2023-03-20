@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Đây là hệ thống giám sát hoạt động trang web của hoangthuan24062002."
-  introMessage: Trang web sử dụng liệu thời gian thực từ [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Trang web sử dụng liệu thời gian thực từ [GitHub repository](https://github.com/upptime/upptime).Không sử dụng máy chủ — Chỉ sử dụng GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
