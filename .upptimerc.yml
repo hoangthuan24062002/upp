@@ -7,7 +7,7 @@ sites:
     url: https://www.google.com
   - name: QBU
     url: https://qbu.edu.vn
-    - name: Youtube
+  - name: Youtube
     url: https://www.youtube.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
