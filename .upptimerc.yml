@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upp
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/74901479?s=400&u=a355712eaef206ddc75aef8952596afd0270f726&v=4
   name: Upptime
   introTitle: "Đây là hệ thống giám sát hoạt động trang web của hoangthuan24062002."
   introMessage: Trang web sử dụng liệu thời gian thực từ [GitHub repository](https://github.com/upptime/upptime).Không sử dụng máy chủ — Chỉ sử dụng GitHub Actions, Issues, and Pages.
