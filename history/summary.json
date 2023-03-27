@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 94,
     "timeDay": 71,
-    "timeWeek": 94,
+    "timeWeek": 95,
     "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 3808,
     "timeDay": 2347,
-    "timeWeek": 3808,
+    "timeWeek": 3700,
     "timeMonth": 3808,
     "timeYear": 3808,
     "dailyMinutesDown": {}
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lrc.quangbinhuni.edu.vn.ico",
     "slug": "tai-nguyen-mo",
     "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-27": 577
+      "2023-03-27": 685
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://quangbinh.gov.vn",
     "icon": "https://icons.duckduckgo.com/ip3/quangbinh.gov.vn.ico",
     "slug": "ubnd-tinh-quang-binh",
-    "status": "down",
-    "uptime": "82.99%",
-    "uptimeDay": "82.99%",
-    "uptimeWeek": "82.99%",
-    "uptimeMonth": "82.99%",
-    "uptimeYear": "82.99%",
-    "time": 20734,
-    "timeDay": 20734,
-    "timeWeek": 20734,
-    "timeMonth": 20734,
-    "timeYear": 20734,
+    "status": "up",
+    "uptime": "69.98%",
+    "uptimeDay": "69.98%",
+    "uptimeWeek": "69.98%",
+    "uptimeMonth": "69.98%",
+    "uptimeYear": "69.98%",
+    "time": 21276,
+    "timeDay": 21276,
+    "timeWeek": 21276,
+    "timeMonth": 21276,
+    "timeYear": 21276,
     "dailyMinutesDown": {
-      "2023-03-27": 99
+      "2023-03-27": 206
     }
   },
   {
@@ -117,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/moet.gov.vn.ico",
     "slug": "bo-gddt",
     "status": "down",
-    "uptime": "0.09%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-27": 576
+      "2023-03-27": 684
     }
   },
   {
