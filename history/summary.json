@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/qbu.edu.vn.ico",
     "slug": "qbu",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3808,
     "timeDay": 2347,
     "timeWeek": 3808,
     "timeMonth": 3808,
     "timeYear": 3808,
-    "dailyMinutesDown": {
-      "2023-03-27": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Quan ly dao tao",
@@ -61,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lrc.quangbinhuni.edu.vn.ico",
     "slug": "tai-nguyen-mo",
     "status": "down",
-    "uptime": "3.76%",
-    "uptimeDay": "3.76%",
-    "uptimeWeek": "3.76%",
-    "uptimeMonth": "3.76%",
-    "uptimeYear": "3.76%",
+    "uptime": "0.47%",
+    "uptimeDay": "0.47%",
+    "uptimeWeek": "0.47%",
+    "uptimeMonth": "0.47%",
+    "uptimeYear": "0.47%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-27": 13
+      "2023-03-27": 108
     }
   },
   {
@@ -98,18 +96,20 @@
     "url": "https://quangbinh.gov.vn",
     "icon": "https://icons.duckduckgo.com/ip3/quangbinh.gov.vn.ico",
     "slug": "ubnd-tinh-quang-binh",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
     "time": 7037,
     "timeDay": 7037,
     "timeWeek": 7037,
     "timeMonth": 7037,
     "timeYear": 7037,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-27": 1
+    }
   },
   {
     "name": "Bo GDDT",
@@ -117,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/moet.gov.vn.ico",
     "slug": "bo-gddt",
     "status": "down",
-    "uptime": "4.05%",
-    "uptimeDay": "4.05%",
-    "uptimeWeek": "4.05%",
-    "uptimeMonth": "4.05%",
-    "uptimeYear": "4.05%",
+    "uptime": "0.47%",
+    "uptimeDay": "0.47%",
+    "uptimeWeek": "0.47%",
+    "uptimeMonth": "0.47%",
+    "uptimeYear": "0.47%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-27": 12
+      "2023-03-27": 107
     }
   },
   {
