@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lrc.quangbinhuni.edu.vn.ico",
     "slug": "tai-nguyen-mo",
     "status": "down",
-    "uptime": "0.34%",
-    "uptimeDay": "0.34%",
-    "uptimeWeek": "0.34%",
-    "uptimeMonth": "0.34%",
-    "uptimeYear": "0.34%",
+    "uptime": "0.31%",
+    "uptimeDay": "0.31%",
+    "uptimeWeek": "0.31%",
+    "uptimeMonth": "0.31%",
+    "uptimeYear": "0.31%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-27": 148
+      "2023-03-27": 158
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://quangbinh.gov.vn",
     "icon": "https://icons.duckduckgo.com/ip3/quangbinh.gov.vn.ico",
     "slug": "ubnd-tinh-quang-binh",
-    "status": "down",
-    "uptime": "85.95%",
-    "uptimeDay": "85.95%",
-    "uptimeWeek": "85.95%",
-    "uptimeMonth": "85.95%",
-    "uptimeYear": "85.95%",
-    "time": 17912,
-    "timeDay": 17912,
-    "timeWeek": 17912,
-    "timeMonth": 17912,
-    "timeYear": 17912,
+    "status": "up",
+    "uptime": "80.98%",
+    "uptimeDay": "80.98%",
+    "uptimeWeek": "80.98%",
+    "uptimeMonth": "80.98%",
+    "uptimeYear": "80.98%",
+    "time": 18031,
+    "timeDay": 18031,
+    "timeWeek": 18031,
+    "timeMonth": 18031,
+    "timeYear": 18031,
     "dailyMinutesDown": {
-      "2023-03-27": 21
+      "2023-03-27": 30
     }
   },
   {
@@ -117,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/moet.gov.vn.ico",
     "slug": "bo-gddt",
     "status": "down",
-    "uptime": "0.35%",
-    "uptimeDay": "0.35%",
-    "uptimeWeek": "0.35%",
-    "uptimeMonth": "0.35%",
-    "uptimeYear": "0.35%",
+    "uptime": "0.32%",
+    "uptimeDay": "0.32%",
+    "uptimeWeek": "0.32%",
+    "uptimeMonth": "0.32%",
+    "uptimeYear": "0.32%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-27": 147
+      "2023-03-27": 157
     }
   },
   {
