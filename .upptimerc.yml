@@ -7,8 +7,16 @@ sites:
     url: https://www.google.com
   - name: QBU
     url: https://qbu.edu.vn
-  - name: Youtube
-    url: https://www.youtube.com
+  - name: Quan ly dao tao
+    url: http://daotao.quangbinhuni.edu.vn
+  - name: Tai nguyen mo
+    url: http://lrc.quangbinhuni.edu.vn:8383/dspace
+  - name: Tap chi khoa hoc
+    url: http://tckh.qbu.edu.vn/index.php/tckh
+  - name: UBND tinh Quang Binh
+    url: https://quangbinh.gov.vn
+  - name: Bo GDDT
+    url: https://moet.gov.vn/Pages/home.aspx
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
