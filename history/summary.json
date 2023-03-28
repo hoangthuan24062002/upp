@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-28": 227,
+      "2023-03-28": 239,
       "2023-03-27": 1318
     }
   },
@@ -80,38 +80,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/tckh.qbu.edu.vn.ico",
     "slug": "tap-chi-khoa-hoc",
     "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 16961,
     "timeDay": 20017,
     "timeWeek": 16961,
     "timeMonth": 16961,
     "timeYear": 16961,
-    "dailyMinutesDown": {
-      "2023-03-28": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "UBND tinh Quang Binh",
     "url": "https://quangbinh.gov.vn",
     "icon": "https://icons.duckduckgo.com/ip3/quangbinh.gov.vn.ico",
     "slug": "ubnd-tinh-quang-binh",
-    "status": "down",
-    "uptime": "83.86%",
-    "uptimeDay": "82.69%",
-    "uptimeWeek": "83.86%",
-    "uptimeMonth": "83.86%",
-    "uptimeYear": "83.86%",
-    "time": 21919,
-    "timeDay": 22746,
-    "timeWeek": 21919,
-    "timeMonth": 21919,
-    "timeYear": 21919,
+    "status": "up",
+    "uptime": "83.26%",
+    "uptimeDay": "82.57%",
+    "uptimeWeek": "83.26%",
+    "uptimeMonth": "83.26%",
+    "uptimeYear": "83.26%",
+    "time": 21766,
+    "timeDay": 22541,
+    "timeWeek": 21766,
+    "timeMonth": 21766,
+    "timeYear": 21766,
     "dailyMinutesDown": {
-      "2023-03-28": 1,
+      "2023-03-28": 12,
       "2023-03-27": 249
     }
   },
@@ -132,7 +130,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-28": 227,
+      "2023-03-28": 239,
       "2023-03-27": 1317
     }
   },
