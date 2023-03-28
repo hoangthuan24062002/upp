@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 93,
-    "timeDay": 84,
-    "timeWeek": 83,
-    "timeMonth": 93,
-    "timeYear": 93,
+    "time": 111,
+    "timeDay": 354,
+    "timeWeek": 117,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3694,
-    "timeDay": 2096,
-    "timeWeek": 2318,
-    "timeMonth": 3694,
-    "timeYear": 3694,
+    "time": 3623,
+    "timeDay": 2566,
+    "timeWeek": 2366,
+    "timeMonth": 3623,
+    "timeYear": 3623,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1003,
-    "timeDay": 700,
-    "timeWeek": 1003,
-    "timeMonth": 1003,
-    "timeYear": 1003,
+    "time": 1076,
+    "timeDay": 1221,
+    "timeWeek": 1076,
+    "timeMonth": 1076,
+    "timeYear": 1076,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-28": 1237,
+      "2023-03-28": 1393,
       "2023-03-27": 1318
     }
   },
@@ -85,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 16961,
-    "timeDay": 20017,
-    "timeWeek": 16961,
-    "timeMonth": 16961,
-    "timeYear": 16961,
+    "time": 15111,
+    "timeDay": 20301,
+    "timeWeek": 15111,
+    "timeMonth": 15111,
+    "timeYear": 15111,
     "dailyMinutesDown": {}
   },
   {
@@ -97,19 +97,19 @@
     "url": "https://quangbinh.gov.vn",
     "icon": "https://icons.duckduckgo.com/ip3/quangbinh.gov.vn.ico",
     "slug": "ubnd-tinh-quang-binh",
-    "status": "up",
-    "uptime": "86.57%",
-    "uptimeDay": "93.44%",
-    "uptimeWeek": "86.57%",
-    "uptimeMonth": "86.57%",
-    "uptimeYear": "86.57%",
+    "status": "down",
+    "uptime": "87.56%",
+    "uptimeDay": "93.86%",
+    "uptimeWeek": "87.56%",
+    "uptimeMonth": "87.56%",
+    "uptimeYear": "87.56%",
     "time": 22986,
-    "timeDay": 24148,
+    "timeDay": 24578,
     "timeWeek": 22986,
     "timeMonth": 22986,
     "timeYear": 22986,
     "dailyMinutesDown": {
-      "2023-03-28": 95,
+      "2023-03-28": 89,
       "2023-03-27": 249
     }
   },
@@ -130,7 +130,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-28": 1237,
+      "2023-03-28": 1393,
       "2023-03-27": 1317
     }
   },
