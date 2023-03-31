@@ -70,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-30": 1431,
+      "2023-03-31": 95,
+      "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
       "2023-03-27": 1318
@@ -100,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/quangbinh.gov.vn.ico",
     "slug": "ubnd-tinh-quang-binh",
     "status": "up",
-    "uptime": "82.00%",
-    "uptimeDay": "69.72%",
-    "uptimeWeek": "82.00%",
-    "uptimeMonth": "82.00%",
-    "uptimeYear": "82.00%",
+    "uptime": "82.44%",
+    "uptimeDay": "75.52%",
+    "uptimeWeek": "82.44%",
+    "uptimeMonth": "82.44%",
+    "uptimeYear": "82.44%",
     "time": 24270,
-    "timeDay": 26292,
+    "timeDay": 26173,
     "timeWeek": 24270,
     "timeMonth": 24270,
     "timeYear": 24270,
     "dailyMinutesDown": {
-      "2023-03-30": 437,
+      "2023-03-30": 430,
       "2023-03-29": 241,
       "2023-03-28": 88,
       "2023-03-27": 249
@@ -134,7 +135,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-30": 1431,
+      "2023-03-31": 95,
+      "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
       "2023-03-27": 1317
