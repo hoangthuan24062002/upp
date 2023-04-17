@@ -1,7 +1,7 @@
 url: https://moet.gov.vn/Pages/home.aspx
-status: down
-code: 503
-responseTime: 1319
-lastUpdated: 2023-04-17T20:51:20.101Z
+status: up
+code: 200
+responseTime: 3225
+lastUpdated: 2023-04-17T21:11:11.563Z
 startTime: Mon Mar 27 2023 02:02:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
